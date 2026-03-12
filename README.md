@@ -39,4 +39,20 @@
 | [0101-symmetric-tree](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
