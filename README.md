@@ -59,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -68,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -85,4 +87,12 @@
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
