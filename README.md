@@ -78,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Two Pointers
 |  |
@@ -95,4 +96,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
