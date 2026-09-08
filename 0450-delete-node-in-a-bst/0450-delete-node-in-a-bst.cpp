@@ -24,8 +24,7 @@ public:
             }
             // 1 child
             else if(!root->left)return root->right;
-            else if(!
-            root->right)return root->left;
+            else if(!root->right)return root->left;
             // 0 child
             else return NULL;
         }
