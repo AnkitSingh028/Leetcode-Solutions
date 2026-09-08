@@ -15,6 +15,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -40,6 +41,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
 |  |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
