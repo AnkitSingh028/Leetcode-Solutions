@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/AnkitSingh028/Leetcode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Greedy
 |  |
 | ------- |
